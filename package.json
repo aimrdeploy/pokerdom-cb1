@@ -1,0 +1,9 @@
+{
+  "name": "neirosreda-ai-editorial",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Russian-language editorial AI website with automatic recursive sitemap generation",
+  "scripts": {
+    "build": "node scripts/generate-sitemap.js"
+  }
+}
